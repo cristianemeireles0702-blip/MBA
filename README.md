@@ -1,12 +1,4 @@
-# MBA
-
+# mba
 Aprendendo Git e GitHub
 
-
-
-Atualizando novamente..
-
-
-
-
-
+Atualizando meu arquivo pela segunda vez
